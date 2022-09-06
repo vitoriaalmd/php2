@@ -14,10 +14,12 @@
 	<div class="box-login">
   
     <form action="">
-      
+
+      <h1> Login </h1>
+
         <div class="itens">
-          <label>Nome ou e-mail:</label>
-          <input type="text" placeholder="Digite aqui seu nome ou e-mail">
+          <label>E-mail:</label>
+          <input type="text" placeholder="Digite aqui seu e-mail">
         </div>
       
         <div class="itens">
@@ -26,7 +28,8 @@
         </div>
       
         <div class="itens">
-          <a href="form.php"> <button class="submit"> Entrar </button> </a>
+          <button class="submit"> Entrar </button>
+          <a href="form.php"> </a>
         </div>
       
   </form>
