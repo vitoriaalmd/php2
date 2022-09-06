@@ -41,7 +41,7 @@
         </div>
 
         <div class="itens">
-          <button class="submit" > Cadastrar </button>
+          <button class="submit"> Cadastrar </button>
           <a href=""> </a>
         </div>
 

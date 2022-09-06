@@ -28,8 +28,9 @@
         </div>
       
         <div class="itens">
-          <button class="submit"> Entrar </button>
-          <a href="form.php"> </a>
+          <a href="form.php"> 
+            <input type="button" class="submit"> Entrar 
+          </a>
         </div>
       
   </form>
