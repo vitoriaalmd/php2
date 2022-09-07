@@ -34,16 +34,23 @@
         <label>Cidade</label>
         <input type="text" placeholder="Digite aqui sua cidade">
       </div>
+
+      <div class="itens">
+        <label>Email</label>
+        <input type="email" placeholder="Digite aqui sua cidade">
+      </div>
+
+      <div class="itens">
+        <label>Senha</label>
+        <input type="password" placeholder="Digite aqui sua cidade">
+      </div>
       
       <div class="itens">
-          <button class="submit"> Voltar </button>
-          <a href="index.php"> </a>
+          <a class="submit" href="index.php"> 
+            <p for="">Voltar</p>
+          </a>
         </div>
 
-        <div class="itens">
-          <button class="submit"> Cadastrar </button>
-          <a href=""> </a>
-        </div>
 
   </form>
 </div>
